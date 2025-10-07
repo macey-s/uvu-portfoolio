@@ -35,6 +35,7 @@ public class ScoreManager : MonoBehaviour
 
     void Win()
     {
+        Debug.Log("WIN FUNCTION CALLED!");
         winText.gameObject.SetActive(true);
     }
 }

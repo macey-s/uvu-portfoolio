@@ -539,7 +539,9 @@
 "Assets/ArtisanDream.Tools/Words/WordGenerator.cs"
 "Assets/Mini Simple Characters Skeleton Demo/Readme/Scripts/Readme.cs"
 "Assets/Scripts/Coin.cs"
+"Assets/Scripts/PuzzleManager.cs"
 "Assets/Scripts/ScoreManager.cs"
+"Assets/Scripts/Switch.cs"
 -langversion:9.0
 /deterministic
 /optimize+
